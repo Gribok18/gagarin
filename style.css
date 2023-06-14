@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    width: 100%;
+}
+.btn:hover{
+    columns: black;
+    background-color: brown;
+}
+picture{
+    width: 30%;
+}
+.text{
+    width: 80%;
+    
+}
+    p{
+        color: rgb(110, 226, 255);
+    }
+.picture img{
+    width: 50%;
+    padding: 0 20px;
+}
+body{background: rgb(22,0,31);
+    background: linear-gradient(94deg, rgba(22,0,31,1) 0%, rgba(92,0,219,1) 35%, rgba(53,0,128,1) 100%);
+    
+}
+.gagarin{
+    width:33%;
+}
+.d2{
+    width: 24%;
+}
+.d0{
+    width:413px;
+}
+.k1{
+    color: rgb(255, 0, 0);
+    text-align: center
+}
+.k2{
+    color: rgb(255, 0, 0);
+    text-align: center
+}

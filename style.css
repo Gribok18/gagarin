@@ -46,3 +46,20 @@ body{background: rgb(22,0,31);
     color: rgb(255, 0, 0);
     text-align: center
 }
+
+@media(max-width:768px){
+    .gagarin{
+        width: 100%;
+    }
+    .d2{
+        width: 100%;
+    }
+    .d0{
+        width:100%;
+    }
+p{
+
+    padding: 0 20px ;
+ }
+}
+
